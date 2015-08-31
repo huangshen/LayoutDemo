@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_grid_demo">GridDemoActivity</string>
+    <string name="title_activity_linear_demo">LinearDemoActivity</string>
+    <string name="title_activity_relative_demo">RelativeDemoActivity</string>
 </resources>

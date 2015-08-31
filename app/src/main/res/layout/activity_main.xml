@@ -12,19 +12,16 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/LinearLayoutDemo"
         android:text="LinearLayoutDemo" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/GridLayoutDemo"
         android:text="GridLayoutDemo" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/RelativeLayoutDemo"
         android:text="RelativeLayoutDemo" />
 
 </LinearLayout>
