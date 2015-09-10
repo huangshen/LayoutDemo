@@ -12,7 +12,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LinearLayoutDemo" />
+        android:text="LinearLayoutDemo"
+        android:onClick="onClickLinearDemoActivity" />
 
     <Button
         android:layout_width="wrap_content"
